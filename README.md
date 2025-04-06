@@ -3,10 +3,10 @@
 <img align="right" width="370" height="290" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 ## 🚀 About Me  
-- 🎯 I’m a **Full Stack Developer** learning and growing every day.  
-- 💡 Passionate about coding and eager to collaborate on exciting projects.  
-- 🌱 Currently mastering **MERN** and more.  
-- 🛠️ I believe in learning by doing, building impactful projects, and helping others whenever I can.  
+- I’m a **Full Stack Developer** learning and growing every day.  
+- Passionate about coding and eager to collaborate on exciting projects.  
+- Currently mastering **MERN** and more.  
+- I believe in learning by doing, building impactful projects, and helping others whenever I can.  
 
 ## 💻 My Tech Stack  
 - **Languages:** JavaScript, Python, HTML, CSS/SCSS  
