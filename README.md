@@ -30,5 +30,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anjaliydv304&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![](https://github-profile-trophy.vercel.app/?username=anjaliydv304&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
